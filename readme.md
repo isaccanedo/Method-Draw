@@ -47,10 +47,3 @@ Deploy `dist` to your static file server of choice.
 **2020.08.01** Project thawed  
 **2015.01.01** Project frozen  
 **2013.01.01** Project forked from SVG-Edit  
-
-Sponsor development by [donating to the author](https://method.ac/donate/).
-
-Method Draw is Copyright (c)
-Mark MacKay [mark@method.ac](mailto:mark@method.ac)
-
-Published under an MIT License. Enjoy.
